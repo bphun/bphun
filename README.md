@@ -5,13 +5,13 @@ I'm Brandon, a student at UC Irvine 🐜 🍽. I post some of my personal projec
 If you found this page through LinkedIn or a job application I sent you, please have a look around and let me know if you want to learn more about me.
 
 🔭 What I’m currently working on:
-  Hmmmm, to be announced **soon** 🧐.
+Hmmmm, to be announced **soon** 🧐.
 
 🌱 I’m currently learning:
-  Kubernetes and Prometheus metrics based service autoscaling.
+Kubernetes and Prometheus metrics based service autoscaling.
 
 📫 If you want to get in touch:
-  Email me at <bhphan1@uci.edu>
+Email me at <bhphan1@uci.edu>
 
 <!--
 **bphun/bphun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
