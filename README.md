@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Brandon, a student at UC Irvine 🐜 🍽. I post some of my personal projects on here so you can see what I'm up to. 
+I'm Brandon, a student at UC Irvine 🐜 🍽. I post some of my personal projects on GitHub so you can see what I'm up to. 
 
-If you found this page through LinkedIn or a job application I sent you, please have a look around and let me know if you'd like to learn more about me.
+If you found this page through my LinkedIn profile or a job application I sent you, please have a look around and let me know if you'd like to learn more about me.
 
 ### 🔭 What I’m currently working on:
 Hmmmm, to be announced **soon** 🧐.
